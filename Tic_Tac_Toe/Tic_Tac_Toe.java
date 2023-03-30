@@ -46,6 +46,7 @@ public class Tic_Tac_Toe {
         
     }
     printBoard(board);
+    sc.close();
 }
 
 public static void printBoard(char[][] board){
