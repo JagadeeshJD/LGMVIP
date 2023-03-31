@@ -11,7 +11,7 @@ public class Main {
         ScientificCalculator scientificCalculator = new ScientificCalculator();
 
         scientificCalculator.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        scientificCalculator.setSize(400, 350);
+        scientificCalculator.setSize(400, 500);
         scientificCalculator.setVisible(true);
 
 
