@@ -13,7 +13,7 @@ public class Main {
 
             currencyConverter.setTitle("Currency Converter App");
             currencyConverter.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-            currencyConverter.setSize(500, 400);
+            currencyConverter.setSize(300, 400);
             currencyConverter.setLocationRelativeTo(null);
             currencyConverter.setVisible(true);
         }
